@@ -60,4 +60,15 @@ resume-spark-220/
 ```
 ---
 
-##
+## 🌍 Deployment
+Deployed using Netlify
+
+Build Command: ```npm run build```
+Publish Directory: ```dist```
+
+---
+
+## 🎯 Use Cases
+
+
+
