@@ -86,9 +86,8 @@ Publish Directory: ```dist```
 4. Submit a pull request
 
  ---
-
- ---
-### 👩‍💻 Author
+ 
+## 👩‍💻 Author
 Rutika Kengal
 🔗 https://github.com/rutika23k
 ---
