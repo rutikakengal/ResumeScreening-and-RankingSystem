@@ -89,7 +89,6 @@ Publish Directory: ```dist```
  
 ## 👩‍💻 Author
 Rutika Kengal
-🔗 https://github.com/rutika23k
 ---
 ---
 ## ⭐ Support
