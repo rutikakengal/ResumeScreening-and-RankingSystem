@@ -76,4 +76,27 @@ Publish Directory: ```dist```
 
 ---
 
+## 🤝 Contributing
+
+> Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
+
+ ---
+
+ ---
+### 👩‍💻 Author
+Rutika Kengal
+🔗 https://github.com/rutika23k
+---
+---
+## ⭐ Support
+
+> If you like this project, don’t forget to ⭐ the repository!
+
+---
+
 
