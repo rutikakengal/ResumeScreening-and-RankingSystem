@@ -69,6 +69,11 @@ Publish Directory: ```dist```
 ---
 
 ## 🎯 Use Cases
+✔ Resume shortlisting for recruiters
+✔ ATS-based evaluation systems
+✔ Final year / academic projects
+✔ Skill-based candidate ranking
 
+---
 
 
