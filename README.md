@@ -1,3 +1,63 @@
-# Welcome to your Lovable project
+# 🚀 Resume Screening & Ranking System  
 
-TODO: Document your project here
+> ✨ An AI-powered web application that analyzes and ranks resumes intelligently to simplify the hiring process.
+
+---
+
+## 🌐 Live Demo  
+
+🔗 https://resumescreeningandrankingsystem.netlify.app/
+
+---
+
+## 📌 Project Overview  
+
+The **Resume Screening & Ranking System** helps automate the recruitment process by evaluating resumes based on skills, keywords, and relevance to job descriptions.  
+
+It combines a **modern frontend (React + TypeScript)** with **Python-based ranking logic** to simulate real-world Applicant Tracking Systems (ATS).  
+
+💡 Designed with a focus on **performance, simplicity, and user experience**.
+
+---
+
+## ✨ Features  
+
+- 🚀 Fast and responsive UI  
+- 📄 Resume screening system  
+- 📊 Ranking based on skills & keywords  
+- 🧠 Smart evaluation logic (Python-based)  
+- 🎯 Easy-to-use interface  
+- 💻 Fully responsive design  
+
+---
+
+## 🛠️ Tech Stack  
+
+| Technology | Usage |
+|-----------|------|
+| React + TypeScript | Frontend Development |
+| Vite | Build Tool |
+| Python | Resume Screening & Ranking Logic |
+| CSS / Tailwind | Styling |
+| Netlify | Deployment |
+
+---
+
+## 📁 Project Structure
+```
+resume-spark-220/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.tsx
+│   └── main.tsx
+│── python/
+│   └── ranking.py
+│── index.html
+│── package.json
+│── vite.config.ts
+```
+---
+
+##
